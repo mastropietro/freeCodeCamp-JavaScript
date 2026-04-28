@@ -1,4 +1,4 @@
-// Este é meu primeiro programa em Java! Fiz um robôzinho meu :)
+// 2º Projeto JavaScript. Robô personalizado.
 
 console.log("Hello! I'm your coding fun fact guide!");
 const botName = "BotDo00";

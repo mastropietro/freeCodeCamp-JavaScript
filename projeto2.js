@@ -1,4 +1,4 @@
-// Meu segundo programa em Java. Contador de Histórias!
+// 2º Projeto JavaScript. Contador de Histórias.
 
 let adjective = "beautiful";
 let noun = "women";

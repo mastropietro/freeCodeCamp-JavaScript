@@ -1,4 +1,4 @@
-// 7th JavaScript Project. Logic Checker Application.
+// 7th JavaScript Exercise: Logic Checker Application.
 
 const hasDeveloperJob = true;
 

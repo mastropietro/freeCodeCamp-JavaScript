@@ -1,4 +1,4 @@
-// 9th JavaScript Project. Fortune Teller.
+// 9th JavaScript Exercise: Fortune Teller.
 
 const fortune1 = "Your cat will look very cuddly today.";
 const fortune2 = "The weather will be nice tomorrow.";

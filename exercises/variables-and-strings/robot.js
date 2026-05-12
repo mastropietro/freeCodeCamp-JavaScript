@@ -1,4 +1,4 @@
-// 1st JavaScript Project. Custom Robot.
+// 1st JavaScript Exercise: Custom Robot.
 
 console.log("Hello! I'm your coding fun fact guide!");
 const botName = "BotDo00";

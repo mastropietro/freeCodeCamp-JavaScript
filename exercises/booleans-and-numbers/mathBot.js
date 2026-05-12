@@ -1,4 +1,4 @@
-// 8th JavaScript Project. Math Bot.
+// 8th JavaScript Exercise: Math Bot.
 
 const botName = "MathBot";
 const greeting = `Hi there! My name is ${botName} and I am here to teach you about the Math object!`;

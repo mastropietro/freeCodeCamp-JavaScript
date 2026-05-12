@@ -1,4 +1,4 @@
-// 2nd JavaScript Project. Story Teller.
+// 2nd JavaScript Exercise: Story Teller.
 
 let adjective = "beautiful";
 let noun = "women";

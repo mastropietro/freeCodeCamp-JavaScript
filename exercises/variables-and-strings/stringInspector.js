@@ -1,4 +1,4 @@
-// 4th JavaScript Project. String Inspector.
+// 4th JavaScript Exercise: String Inspector.
 
 const fccSentence = "freeCodeCamp is a great place to learn web development.";
 

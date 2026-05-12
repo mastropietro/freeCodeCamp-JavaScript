@@ -1,4 +1,4 @@
-// 5th JavaScript Project. String Formatter.
+// 5th JavaScript Exercise: String Formatter.
 
 const userInput = "   Hello World!   ";
 console.log("Original input:");

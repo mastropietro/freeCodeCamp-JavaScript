@@ -1,4 +1,4 @@
-// 6th JavaScript Project. String Transformer.
+// 6th JavaScript Exercise: String Transformer.
 
 const originalString = "I love cats.";
 console.log("Original string:");

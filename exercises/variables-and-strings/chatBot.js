@@ -1,4 +1,4 @@
-// 3rd JavaScript Project. ChatBot for teachers.
+// 3rd JavaScript Exercise: ChatBot for teachers.
 
 console.log("Hi there!");
 
